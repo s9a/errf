@@ -1,1 +1,4 @@
-## [ratio](https://s9a.page/mochi) + [juliet](https://s9a.page/contrast)
+## [welcome to errF](https://s9a.page/errf)
+
+errF template
+enjoy
